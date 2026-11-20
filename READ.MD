@@ -4,6 +4,9 @@ Welcome! Follow the steps below to set up your development environment and insta
 
 ##  Getting Started
 
+### Clone Repository:
+https://github.com/Damiemmy/bincom_first_contact_session.git
+
 ### 1. Create a Virtual Environment
 
 A virtual environment keeps this project's dependencies separate from other Python projects.
